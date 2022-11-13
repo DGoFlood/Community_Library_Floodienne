@@ -2,4 +2,4 @@
 Function Library fo Unreal 5
 
 
-Add "GoFlood" in your "Contant" project
+Add "GoFlood" in your "Content" project
