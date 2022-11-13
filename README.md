@@ -18,6 +18,8 @@ UTILIITIES :
 - Multi Tap Input
 - Hold Input
 
+- Verif GameplayTag
+
 
 NETWORKING :
 - Switch Has Role
