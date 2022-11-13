@@ -1,5 +1,5 @@
-# GF_FunctionLibrary
-Function Library fo Unreal 5
+# Community Library Floodienne
+Library for Unreal 5
 
 
 Add "GoFlood" in your "Content" project
