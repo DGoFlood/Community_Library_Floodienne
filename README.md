@@ -7,7 +7,7 @@ Add "GoFlood" in your "Content" project
 # LISTE
 
 DEBUG :
-- Print String
+- Print String Rework
 
 
 CHARACTER PAWN :
